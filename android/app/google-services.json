@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "584889880909",
+    "project_id": "edut-app",
+    "storage_bucket": "edut-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584889880909:android:53661216b0491bf47e2704",
+        "android_client_info": {
+          "package_name": "com.mellow.edutApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584889880909-bolbgme4h2bbp0tlstn6p9ub52q7u7j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-wW192-urT-jDhwJzwDVoWRQolIeo70o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584889880909-bolbgme4h2bbp0tlstn6p9ub52q7u7j0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584889880909-isk4i10soe54n5vnbs0mnpo1nn35ht7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mellow.edutApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

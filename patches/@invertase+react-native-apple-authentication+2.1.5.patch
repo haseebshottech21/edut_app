@@ -1,0 +1,12 @@
+diff --git a/node_modules/@invertase/react-native-apple-authentication/android/build.gradle b/node_modules/@invertase/react-native-apple-authentication/android/build.gradle
+index d46c5cf..4e06dda 100644
+--- a/node_modules/@invertase/react-native-apple-authentication/android/build.gradle
++++ b/node_modules/@invertase/react-native-apple-authentication/android/build.gradle
+@@ -51,7 +51,6 @@ android {
+ 
+ repositories {
+   mavenCentral()
+-  jcenter()
+   google()
+ 
+   def found = false

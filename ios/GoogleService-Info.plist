@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>584889880909-isk4i10soe54n5vnbs0mnpo1nn35ht7c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.584889880909-isk4i10soe54n5vnbs0mnpo1nn35ht7c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>584889880909-1u5gnfl7bh7khkue8od2sefent5u6qnt.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDiNY4UI1MFSpfxviQnbpgniEsaixhFFZY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>584889880909</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mellow.edutApp</string>
+	<key>PROJECT_ID</key>
+	<string>edut-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>edut-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:584889880909:ios:e9e8bc8628b69cd57e2704</string>
+</dict>
+</plist>

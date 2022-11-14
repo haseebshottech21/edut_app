@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">edutApp</string>
+     <string name="facebook_app_id">363217929029213</string>
+<string name="facebook_client_token">23aa54e771d663ba1b29313e39134b8d</string>
+</resources>

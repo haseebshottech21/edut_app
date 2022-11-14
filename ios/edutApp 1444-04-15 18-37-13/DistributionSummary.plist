@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>edutApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+				<key>dateExpires</key>
+				<string>13/11/1444 AH</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>AgoraAIDenoiseExtension.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>AgoraCIExtension.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>AgoraCore.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>AgoraDav1dExtension.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>AgoraFDExtension.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>AgoraFullAudioFormatExtension.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>AgoraJNDExtension.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>AgoraReplayKitExtension.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>AgoraRtcKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>AgoraSoundTouch.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>AgoraSuperResolutionExtension.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>AgoraVideoProcessExtension.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>AgoraVideoSegmentationExtension.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>Agorafdkaac.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>Agoraffmpeg.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>12.3.2</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>FBAEMKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>12.3.2</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>FBSDKCoreKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>12.3.2</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>FBSDKCoreKit_Basics.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>12.3.2</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>FBSDKLoginKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>12.3.2</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>FBSDKShareKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>23374</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>ImglyKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>11.3.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>OpenSSL.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.1.180</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>23374</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>PhotoEditorSDK.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>11.3.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>23374</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>72078A18F727299D3945AEEEBB6DDA36C8A3AAAF</string>
+						<key>dateExpires</key>
+						<string>13/11/1444 AH</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>VideoEditorSDK.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>11.3.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>696PA32759.com.mellow.edutApp</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.applesignin</key>
+				<array>
+					<string>Default</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>696PA32759</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>edutApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>95cfe107-9231-40da-bd87-54378acf45d5</string>
+				<key>dateExpires</key>
+				<string>20/03/1445 AH</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.mellow.edutApp</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>696PA32759</string>
+				<key>name</key>
+				<string>TECHNADO (PRIVATE) LIMITED</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
